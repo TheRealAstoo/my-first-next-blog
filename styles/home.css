@@ -1,0 +1,11 @@
+#home-container {
+  background-image: url("../public/moi.jpg");
+  height: calc(100vh - 56px);
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
