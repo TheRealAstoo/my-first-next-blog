@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { Layout } from "./layout"
+import Layout from "./layout"
 import React from "react"
 import Image from "react-bootstrap/Image"
 

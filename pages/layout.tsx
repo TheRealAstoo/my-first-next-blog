@@ -5,7 +5,7 @@ import FormControl from "react-bootstrap/FormControl"
 import InputGroup from "react-bootstrap/InputGroup"
 import Button from "react-bootstrap/Button"
 
-export const Layout: React.FC = ({children}) => {
+const Layout: React.FC = ({children}) => {
   return (
     <div>
       <Navbar bg="dark" variant="dark">
@@ -41,3 +41,5 @@ export const Layout: React.FC = ({children}) => {
     </div>
   )
 }
+
+export default Layout;

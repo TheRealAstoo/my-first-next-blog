@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 import Image from "react-bootstrap/Image"
 
-import { Layout } from "../layout"
+import Layout from "../layout"
 
 
 const firstArticle: React.FC = () => {
